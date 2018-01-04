@@ -202,7 +202,7 @@ print multilist
 #----------------------------------------#
 
 #----------------------------------------#
-Question 8	
+Question 8	//SOLVED//
 Level 2
 
 Question:
@@ -225,7 +225,7 @@ print ','.join(items)
 Question 9
 Level 2
 
-Question£º
+Question
 Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
 Suppose the following input is supplied to the program:
 Hello world
@@ -251,7 +251,7 @@ for sentence in lines:
 #----------------------------------------#
 
 #----------------------------------------#
-Question 10
+Question 10	//SOLVED//
 Level 2
 
 Question:
@@ -272,13 +272,13 @@ print " ".join(sorted(list(set(words))))
 #----------------------------------------#
 
 #----------------------------------------#
-Question 11
+Question 11	//DONE//
 Level 2
 
 Question:
 Write a program which accepts a sequence of comma separated 4 digit binary numbers as its input and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma separated sequence.
 Example:
-0100,0011,1010,1001
+0100,0011,1010,1001,1000
 Then the output should be:
 1010
 Notes: Assume the data is input by console.
@@ -298,7 +298,7 @@ print ','.join(value)
 #----------------------------------------#
 
 #----------------------------------------#
-Question 12
+Question 12	
 Level 2
 
 Question:
