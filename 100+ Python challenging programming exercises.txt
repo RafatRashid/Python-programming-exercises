@@ -376,7 +376,7 @@ print "LOWER CASE", d["LOWER CASE"]
 #----------------------------------------#
 
 #----------------------------------------#
-Question 15
+Question 15	//DONE//
 Level 2
 
 Question:
@@ -418,7 +418,7 @@ numbers = [x for x in values.split(",") if int(x)%2!=0]
 print ",".join(numbers)
 #----------------------------------------#
 
-Question 17
+Question 17	//DONE//
 Level 2
 
 Question:
@@ -429,7 +429,7 @@ W 200
 D means deposit while W means withdrawal.
 Suppose the following input is supplied to the program:
 D 300
-D 300
+F 300
 W 200
 D 100
 Then, the output should be:
@@ -458,7 +458,7 @@ print netAmount
 #----------------------------------------#
 
 #----------------------------------------#
-Question 18
+Question 18	//DONE//
 Level 3
 
 Question:
